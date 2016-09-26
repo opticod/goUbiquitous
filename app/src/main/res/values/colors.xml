@@ -38,4 +38,8 @@
     <!-- the color used for the low temperature in the forecast list -->
     <color name="forecast_low_text">#607D8B</color>
 
+    <color name="sunshine_light_blue">#ff64c2f4</color>
+    <color name="sunshine_blue">#ff1ca8f4</color>
+    <color name="sunshine_dark_blue">#0288D1</color>
+
 </resources>
